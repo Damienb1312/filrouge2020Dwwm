@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Cette phrase devient la nouvelle premiere ligne du document et elle devras le rester
 Damien
+=======
+Damien 
+>>>>>>> Damien-testgit-3
 Test Git première branche
 
 test git création deuxième branche
+
+Broggini
+test git creation troisieme branche
